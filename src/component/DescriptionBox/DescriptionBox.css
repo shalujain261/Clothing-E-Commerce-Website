@@ -1,0 +1,38 @@
+.descriptionbox {
+  margin: 80px 100px;
+}
+.descriptionbox-navigator {
+  display: flex;
+  align-items: center;
+}
+.descriptionbox-nav-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 600;
+  width: 171px;
+  height: 70px;
+  border: 1px solid #d0d0d0;
+}
+.descriptionbox-nav-box-fade{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBFBFB;
+    color: #555; 
+    font-size: 16px;
+  font-weight: 600;
+  width: 171px;
+  height: 70px;
+  border: 1px solid #d0d0d0;
+}
+.descriptionbox-description{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border: 1px solid #D0D0D0;
+    padding: 38px;
+    padding-bottom: 40px;
+
+}
